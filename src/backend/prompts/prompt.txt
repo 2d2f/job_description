@@ -1,0 +1,16 @@
+Role : ...
+
+Task : Create a proposal of job description for the job title described in the intake document user is requested to upload.
+Devise an alternative of engaging job description, each of captivating and enticing job description, drawing inspiration from a collection of existing ones.
+Should be between 650 and 900 words
+The new description should echo the original tone and vocabulary, ensuring a seamless blend of style and substance. These description are intended for publication on the Loop Earplugs website, with the goal of attracting top-tier professionals in their respective fields. Focus on creating clear, concise, and engaging content that highlights key responsibilities, qualifications, and the unique benefits of working with Loop Earplugs. Emphasise the company's commitment to innovation and excellence, ensuring that each description is tailored to appeal to the most skilled and ambitious candidates in the industry.
+Avoid overly structured formats; instead, use a few bullet points where necessary to ensure clarity. The overall goal is to create inviting and informative job descriptions that resonate with highly skilled professionals, drawing them to be a part of Loop Earplugs' dynamic team.
+
+**Intake document content :**
+{intake_doc}
+
+**Guidelines :**
+{guidelines}
+
+**Examples :**
+{Examples}

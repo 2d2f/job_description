@@ -1,0 +1,110 @@
+Examples of good job descrip3ons
+**Example 1:** Influencer Marke3ng Manager
+About the role:  
+Influencer Marke-ng isn’t a side hustle here at Loop, it’s at the core of our marke-ng efforts. That’s why we’re looking for an experienced Influencer Marketer to join our established team to help fuel our proven performance efforts
+As the US is one of our biggest markets, we’re looking for someone based locally to lead and scale our influencer collabora-on with a focus on performance, driving high ROAS and producing influencer content which fuels our posi-oning as a premium lifestyle brand people want to be a part of.
+You’ll work alongside our exis-ng team of Europe-based Influencer Marketers and Strategists to set up campaigns on both a local and global level. Making sure Loop Earplugs is known and loved by the right people, op-mizing our current approaches to reach new and exci-ng audiences and always daring to think big in new and surprising ways.
+What you’ll do:  
+• Lead our proven performance efforts globally
+• Develop and con-nuously op-mize the overarching influencer marke-ng approach
+driving revenue, high ROAS and brand awareness
+• Work collabora-vely with Campaign Managers and across teams in the research
+and set-up phase of collec-ons, brand partnerships as well as focussing on building out our always on influencer efforts keeping our Core Collec-on fresh and exci-ng for customers
+• Manage influencer campaigns to drive growth in revenue and brand awareness How you’ll do it: 
+• 6+ years' experience in similar roles with 2+ year's Influencer Marke-ng
+• Proven track record driving high return influencer campaigns
+• A highly strategic, crea-ve mindset to develop innova-ve campaign ideas
+• A long-term vision and roadmap; con-nuously challenging the status quo and
+cri-cally reviewing the alignment of our daily ac-ons with our overarching strategy
+• Excellent communica-on and organiza-onal skills, with the ability to collaborate
+closely with cross-func-onal teams
+• Finding crea-ve ways to op-mize our ways of working, seYng in mo-on evergreen
+loops in influencer marke-ng to ensure the right campaigns are fueling growth with limited interven-on
+**Example 2:** VP Technology (Data and Tech)
+About the role
+Why choose to wrestle with legacy systems when you can lead the charge with the latest technology and drive high innova-on, including the thrilling world of AI? We’re looking for a VP of Technology that can take strategic ownership of our tech division. An inspiring leader to help us set up our technical landscape, grow the team and help us staying ahead of our game when it comes to technological development.
+As our Vice President of Technology, you'll play a pivotal role in cra\ing our data strategy and infrastructure, ensuring that we harness the full poten-al of technology and data to drive innova-on and growth. We deal with vast amounts of data, so you'll be at the forefront of
+working with big data sets.
+Why is Loop different? We guarantee you a culture of innova-on, an environment where you can bring new ideas to the table and grow your own team. We provide you the autonomy to do what you need to do, with no micromanagement. We're not afraid to put your ideas to the test, but that doesn’t concern you, you have got enough experience in your toolkit to back your point. And oh, did we men-on that we’re keen on working with the latest technology out there? You will have plenty of room to stay ahead with tech, so we stay ahead with the business!
+What you will do:
+• Develop and implement a bold data strategy and vision that aligns with Loop Earplugs' ambi-ous growth objec-ves, inspiring our team to think big.
+• Cul-vate a proac-ve, data-driven culture by promo-ng data literacy and encouraging the use of data in decision-making processes across all departments.
+• Lead the establishment of data governance policies and procedures to ensure data quality, accuracy, and compliance with relevant regula-ons.
+• Design and oversee the implementa-on of scalable and robust data infrastructure that seamlessly integrates data from various sources to support our business needs.
+• Drive the development of advanced analy-cs capabili-es, empowering our team to make data-driven decisions that op-mize customer experiences and fuel our growth.
+• Spearhead AI development ini-a-ves to push the boundaries of innova-on and enhance our product offerings.
+• Ensure data security and privacy in accordance with industry best prac-ces and legal requirements.
+• Drive automa-on efforts across the organiza-on to enhance produc-vity and efficiency.
+• Collaborate with department leaders to understand their data needs and provide insights that enable informed decisions.
+• Evaluate and select appropriate data tools, pla_orms, and vendors to support Loop Earplugs' data strategy and ini-a-ves.
+• Build and manage a high-performing team of data professionals who share our passion for innova-on, growth, and staying at the forefront of industry trends.
+How you will do it:
+• You bring at least 10+ years of experience in data management, analy-cs, or a similar role, with at least 5 years in a leadership capacity.
+• You have a proven track record of developing and execu-ng data strategies in a fast- growing, data-driven organiza-on.
+• You bring a strong understanding of data architecture, integra-on, governance, and security principles.
+• You have hands-on experience with AI and ML.
+• You have experience with various data tools, pla_orms, and vendors. Bonus points if
+you know Azure, Snowflake, DBT, and/or Emarsys.
+• You bring excep-onal communica-on and interpersonal skills, with the ability to
+engage and influence stakeholders at all levels.
+• You demonstrate your ability to think big, take ini-a-ve, and stay curious.
+Location: 
+• Our preference is to have this person work out of either our hub in Antwerp or Amsterdam, where most of our technical and leadership team is based. We can provide reloca-on assistance to these loca-ons. 
+• That said, we are open to the right remote candidate, but we value collabora-on and teamwork. For new hires outside Amsterdam or Antwerp for leadership posi-ons, we require them to be onsite at least a few days each month and for one week each quarter for our strategy week. With most of the team in these two hubs, we prefer candidates to be working in the same -me zone and within an economical travel distance. 
+**Example 3:** Senior Digital Product manager
+About the role:
+At Loop, our mission is clear: to empower people to control how they hear the world. While many recognize us for our iconic earplugs, our ambi-ons soar beyond just passive hearing protec-on. Our journey has expanded into the realm of connected earwear, hearables, and their companion applica-ons. From standalone apps that allow users to master their auditory environment to digital solu-ons designed to aid focus, sleep, and relaxa-on through specific sound waves, we're always innova-ng. As the digital landscape rapidly evolves, we're harnessing the transforma-ve power of AI to further improve our offerings, deligh-ng customers through enhanced experiences and driving fresh revenue
+streams. That's why we're seeking our first Senior Product Manager for Digital products,
+to be at the vanguard of this auditory revolu-on shaping experiences and products that redefine how millions interact with the soundscape of their lives.
+In this role, you will be responsible for envisioning our digital future, co-crea-ng the roadmap for innova-ve digital applica-ons, managing product execu-on and delivery, shaping go-to-market strategies, and ensuring our products make a significant impact in the market. As a key player in our growing organiza-on, you will collaborate closely with cross- func-onal teams to drive the success of our digital products. The Product Management team today consists of 5 Product Managers, each focussing on a specific product category. In this role you'll be repor-ng to our Director Product Management.
+What you’ll do:
+• Strategic Planning: Collaborate with leadership to envision our digital future, devising a data-informed roadmap that seamlessly integrates development, design, and budget considera-ons.
+• Market Discovery & Compe--ve Analysis: Engage deeply with marke-ng and user teams, decode compe-tor moves, and crystallize our product's dis-nc-ve value based on genuine user feedback.
+• Product & Process Concep-on: Lead the crea-on of innova-ve digital applica-ons, working in tandem with both external agencies and our dedicated internal teams.
+• Managing Execu-on & Delivery: Steer the product backlog with a discerning eye, priori-ze impac_ul features, and coordinate effec-vely balancing the voice of the customer with the needs of the business for -mely product rollouts.
+• Pricing & Go-to-Market: Shape compelling go-to-market strategies, calibrate pricing structures, and ensure our products make a resounding debut.
+• Other Responsibili-es: Oversee the intricate web of API's, cul-vate strategic partnerships, uphold excellence in UX/UI, and harness data insights for con-nuous refinement.
+
+How you'll do it:
+• Bachelor’s degree in business, computer science, engineering, or a related field. A master’s degree or an MBA would be advantageous.
+• At least 7 years in product management with a specializa-on in mobile applica-on development with physical connected devices. A dis-nct advantage if your por_olio includes work in wearables, hearables, or allied tech domains.
+• Strategic Mindset: Proven ability to develop and implement visionary strategic plans while balancing immediate and long-term goals.
+• Analy-cal Skills: Adept in data-driven methodologies for market analysis, user feedback, and product evalua-on.
+• Tech-Savviness: Basic comprehension of AI, APIs, and the architecture of digital products.
+• Collabora-ve Spirit: Ability to collaborate effec-vely with cross-func-onal teams, including marke-ng, engineering, and design.
+• Due to the nature of that role, we are only open to candidates who are in commutable distance from Antwerp or Amsterdam, or those who are willing to relocate.
+**Example 4: Chief of Staff**
+About the role
+Marie Kondo can pack her bags with you in charge, you bring clarity, control and structure to the messiest places. You know like no-one else how to get a fresh leadership team together, organized and poin-ng in the same direc-on. Sounds like you? Great! We’re looking for a Chief of Staff in our transforma-on of growth.
+With big plans of growing a global team to 500 before the end of 2024 and even 800 by the end of 2025, you’ll be suppor-ng us with strategic topics and turning chaos in a fast-paced environment into a well aligned choreography. We have a new leadership team in place and new organiza-onal structures are to be defined. This role is pivotal in orchestra-ng this growth, aligning departments, and driving key ini-a-ves. It involves managing complex, strategic projects and ac-ng as a bridge between the Co-founders and other senior execu-ves. You will help us harmonize our expanding opera-ons and strategy by ac-ng as a strategic advisor, suppor-ng our decision making with data and making sure all execu-ves are informed and up to date.
+To be successful in this role you need to be a true problem solver and find solu-ons quickly. With your concise communica-on style, you manage to bring people together and guide them in the same direc-on. You'll be the strategic linchpin, facilita-ng communica-on, aligning departments, and driving key ini-a-ves.
+This is more than a role; it's a chance to be at the heart of Loop's evolu-on, influencing decisions and ac-ons that shape our future.
+What you’ll do
+• Strategic planning: you’ll be responsible for aligning departmental strategies with the organiza-on's overall goals, adap-ng as the company grows and be a trusted advisor who gives honest opinions and different perspec-ves on strategic topics.
+
+• Opera3onal efficiency: you’ll streamline opera-ons and improve processes to support the organiza-on's growth and scalability.
+• Leadership support: you’ll provide strategic support and advice to the execu-ve team, aiding in decision-making and planning, making sure the execu-ve team is well informed and ready for all engagements.
+• Organiza3on: you make sure the right people are speaking with each other by organizing mee-ngs and schedules and prepping agendas, briefings, and materials for execu-ve mee-ngs.
+• Communica3on: you help our founders communicate the vision and decisions to the rest of the company and facilitate communica-on between the execu-ve and other members of the leadership team, dissemina-ng important informa-on to relevant stakeholders.
+• Project Management: you oversee cross-departmental projects, ensuring they are executed efficiently and align with strategic objec-ves.
+• Data Analysis: you’ll support strategic decision making by analyzing key data, presen-ng insights to leadership for ac-onable strategies.
+• Stakeholder Engagement: you'll represent the company in various external seYngs, building and maintaining rela-onships with external stakeholders.
+• Innova3on and Change Management: you’ll be the driver of innova-on and manage organiza-onal changes effec-vely, ensuring the company adapts to new opportuni-es and challenges.
+How you'll do it
+• Educa3onal background: Master's degree in business administra-on, management,
+or a related field. An MBA or equivalent is highly desirable.
+• Professional experience: at least 8 years in a leading or strategic role, preferably in a
+fast-paced, growth-oriented environment. Experience in management consul-ng
+with a focus on strategic planning is a plus.
+• Strategic acumen: proven ability to develop, implement, and align organiza-onal
+strategies.
+• Excep3onal communica3on: strong communica-on and interpersonal skills, capable
+of wri-ng strategic communica-ons and ac-ng as a communica-on arm for the Co-
+founders.
+• Analy3cal Thinking: robust analy-cal and problem-solving skills, experienced in
+financial analysis and corporate strategy.
+• Organiza3onal Skills: outstanding organiza-onal and -me-management abili-es,
+adept at handling mul-ple priori-es in a dynamic environment.
+• Adaptability and Innova3on: capacity for innova-ve thinking and adaptability,
+crucial in a growing company.
+The Chief of Staff will directly report to the Co-founders, providing high-level support, coordina-on, and strategic assistance, enhancing the Co-founders ability to lead and make informed decisions. The posi-on demands a dynamic individual who can navigate through uncertainty and risk, delivering precise and persuasive communica-on, and fostering collabora-on across the organiza-on.

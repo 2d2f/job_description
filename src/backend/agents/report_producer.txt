@@ -1,0 +1,35 @@
+Final agent for complete report production
+
+Le but c'est de décomposer tout le travail 
+
+Voici les 2 sources d'input de resumes :
+
+1. resumes donnés par l'user dans l'app streamlit directement (en version txt)
+2. resumes d'une database (type snowflake) - 40k disponible
+
+Pour le second cas, les resumes pourront avoir certains pre-processes :
+- red-flags déjà identifier (via un LLM en local) -> si identifiés, rien ne sert de les analyser
+- embeddings (créé en local par un modèle open-source)
+Et certainement d'autres choses, mais on va s'arreter là.
+
+Objectif des embeddings : récupérer X resumes par similarity search avec le job description, l'analyse qui suit portera sur ces X resumes
+
+Le process global peut se faire de la manière suivante :
+
+1. identification des red-flags -> si 1 identifié, KO
+2. format into structured resume -> doit encore être déterminé
+
+Note : ce dernier point est crucial. 
+En effet, si on arrive à formatter chaque resume vers une structure commune, les étapes suivantes peuvent être automatisée et demander moins de ressources.
+
+Pour les étapes qui suivent, on peut arrêter le process si le score est inférieur à 3 par exemple -> à déterminer
+3. skills match avec le job description
+4. work experience match
+5. educational match
+
+Grâce aux résultats précédents, on peut automatiser la suite du process
+6. overall match -> soit on détermine une conclusion avec les scores pour juste conclure 'pass' or 'rejected', 
+soit on fait une analyse complète des résultats par un LLM call pour avoir une conclusion complète
+7. report production -> on rassemble tous les scores et les réponses des agents précedents dans l'Excel final (automatisé)
+
+PS : quand je dis 'automatiser', je veux dire qu'il n'y a pas de LLM call, c'est du code Python qui s'exécute
