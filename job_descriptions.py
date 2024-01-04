@@ -15,10 +15,6 @@ from src.streamlit.helper import initialize_session_state
 
 from  src.backend.utils_descriptions import description_production, load_api_key, handle_upload_files
 
-from langchain.vectorstores import Chroma
-from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.document_loaders import DataFrameLoader
-
 from langchain.agents import AgentType, Tool, initialize_agent
 from langchain.llms import OpenAI
 from langchain.chains import RetrievalQA
@@ -35,27 +31,6 @@ st.markdown(
             unsafe_allow_html=True,
         )
 
-
-def init_agent():
-    llm = OpenAI(temperature=0)
-    review_content = RetrievalQA.from_chain_type(
-        llm=llm, chain_type="stuff", retriever=st.session_state["vector_db"].as_retriever()
-    )
-    tools = [
-        Tool(
-            name="Review Content QA System",
-            func=review_content.run,
-            description="useful for when you need to answer questions about the content of the product reviews. Input should be a fully formed question.",
-        ),
-    ]
-    agent = initialize_agent(
-        tools, llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True
-    )
-    return agent
-
-@st.cache_data
-def get_answer(_agent, query):
-    return _agent.run(query)
 
 # Define all containers upfront to ensure app UI consistency
 # container for all data source widgets:
@@ -78,7 +53,7 @@ if not user_api_key:
 else:
     st.session_state.setdefault("reset_chat", False)
     
-    st.write("**1. Drag and drop one Excel sheet of Product reviews.**")
+    st.write("**1. Upload intake document.**")
     
     st.session_state["uploaded_files"] = handle_upload_files()
 
